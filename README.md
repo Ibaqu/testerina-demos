@@ -1,3 +1,3 @@
 # Testerina Demos
 
-Repository to keep track of all Testerina related blogs.
+Repository containing demo projects that can be used to demonstrate testing capabilities
