@@ -1,0 +1,7 @@
+[package]
+org = "ibaqu"
+name = "covid19_statistics_to_email"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
